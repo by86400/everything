@@ -1,20 +1,22 @@
 {
   "metaTitle": "Your Meta Title",
-  "metaDescription": "Your meta description.",
-  "logoTitle": "Your Name",
+  "metaDescription": "Fat, Bald Dabus",
+  "logoTitle": "Mr. 86400",
   "heroImage": "/assets/images/philipe-cavalcante-xe68QiMaDrQ-unsplash-770x190.jpg",
   "heroCaption": "Your short description of who you are",
   "social": {
-    "dev": "https://dev.to/",
+    "dev": "",
     "dribbble": "",
     "facebook": "",
-    "github": "https://github.com/",
-    "instagram": "https://instagram.com/",
-    "linkedin": "http://www.linkedin.com/",
-    "pinterest": "https://pinterest.com/",
-    "twitter": "https://twitter.com/",
+    "github": "",
+    "instagram": "",
+    "linkedin": "",
+    "pinterest": "",
+    "twitter": "",
     "youtube": "",
-    "email": "you@your-email.com"
+    "email": "you@your-email.com",
+    "bsky": "https://bsky.app",
+    "mastodon": "https://mastodon.social/"
   },
   "stats": {
     "google": "",
