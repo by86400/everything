@@ -1,9 +1,9 @@
 ---
-title: About This App
+title: About This Template
 layout: page
 eleventyNavigation:
   key: main
-  title: About This App
+  title: About
   order: 1
 overrides:
   bgColor: # defaults: settings.colors.background > bg-gray-800
@@ -12,8 +12,6 @@ overrides:
   padding: # default: px-4
 ---
 
-Put your "About You" information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is another quick eleventy theme that was suggested to me by someone on Mastodon, so they're good for something after all. I'm not feeling super motivated to fill this in right now, though, so this will have to do.
 
 ---

@@ -1,9 +1,9 @@
 {
-  "metaTitle": "Your Meta Title",
-  "metaDescription": "Fat, Bald Dabus",
+  "metaTitle": "Everything by 86400",
+  "metaDescription": "A lit of places where I'm making something.",
   "logoTitle": "Mr. 86400",
   "heroImage": "/assets/images/philipe-cavalcante-xe68QiMaDrQ-unsplash-770x190.jpg",
-  "heroCaption": "Your short description of who you are",
+  "heroCaption": "Fat, Bald Dabus",
   "social": {
     "dev": "",
     "dribbble": "",
@@ -14,7 +14,7 @@
     "pinterest": "",
     "twitter": "",
     "youtube": "",
-    "email": "you@your-email.com",
+    "email": "",
     "bsky": "https://bsky.app",
     "mastodon": "https://mastodon.social/"
   },
